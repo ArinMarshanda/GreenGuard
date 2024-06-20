@@ -1,0 +1,39 @@
+body {
+    background-color: #3498db; /* Warna latar belakang biru */
+    color: #fff; /* Warna teks putih */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff; /* Warna latar belakang putih */
+    border-radius: 10px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input[type="file"] {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.prediction-result {
+    margin-top: 20px;
+}
